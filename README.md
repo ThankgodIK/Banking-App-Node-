@@ -134,4 +134,4 @@ This project is licensed under the MIT License. Feel free to use, fork, and modi
 
 ## 👤 Author
 
-Thankgod Ikefuama – [@yourusername](https://github.com/yourusername)
+Thankgod Ikefuama – [@ThankgodIK]https://github.com/ThankgodIK
